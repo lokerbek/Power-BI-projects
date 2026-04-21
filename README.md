@@ -53,8 +53,6 @@ Visualization: Build visual hierarchy from Summary Tables to Detailed Analysis.
 How to Access the Projects
 To access the source code, you will need to install Power BI Desktop.
 
-Clone the repository: git clone https://github.com/your-username/power-bi-portfolio.git.
-
 Open the files in PBIX format to look through the data models and DAX code.
 
 Author: Almat Kobeibek
